@@ -1,3 +1,31 @@
 body {
-  background-color: aliceblue;
+  background: url(background.jpg) no-repeat center center fixed;
+  background-size: cover;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+  padding: 30px;
+}
+
+table.tg {
+  width: 100%;
+  max-width: 950px;
+  margin: 0 auto;
+  border-collapse: collapse;
+  background-color: rgba(0, 0, 0, 0.75);
+  margin-top: 40px;
+
+}
+
+thead th {
+  background-color: #b30000;
+  color: white;
+  padding: 12px;
+  font-weight: bold;
+  text-align: center;
+  font-size: 1rem;
+}
+
+h1 {
+  color: #cc0000;
+  text-align: center;
 }
