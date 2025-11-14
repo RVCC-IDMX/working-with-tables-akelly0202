@@ -18,6 +18,7 @@ table.tg {
 
 thead th {
   background-color: #b30000;
+  border-color: #b30000 !important;
   color: white;
   padding: 12px;
   font-weight: bold;
@@ -26,6 +27,14 @@ thead th {
 }
 
 h1 {
-  color: #cc0000;
+  font-family: "Bebas Neue", sans-serif;
+  letter-spacing: 2px;
+  color: #ff1a1a;
   text-align: center;
+  padding: 10px 20px;
+  background: rgba(0, 0, 0, 0.8);
+  margin: 0 auto 25px;
+  max-width: 910px;
+  margin-top: 40px;
+
 }
